@@ -1,4 +1,8 @@
-# EduUxUiNgVscroll
+# edu-ux-ui-ug-virtual-scroll
+
+## Based on [Fireship.io](https://fireship.io) (AngularFirebase-145)
+
+Episode 145 - Build an Infinite Virtual Scroll with the Angular Material CDK and Firestore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
